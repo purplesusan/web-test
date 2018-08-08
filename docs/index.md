@@ -1,6 +1,6 @@
 Index
 
-[doc topic](/docs/doctopic)
+[doc topic](/_docs/doctopic)
 
 see also
 * [second topic](second/topic2.md)
