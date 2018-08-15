@@ -1,6 +1,6 @@
 ---
 title: Third topic
-permalink: topic3.html
+permalink: /docs/third/topic3
 sidebar: mysidebar
 product: My Product
 ---
