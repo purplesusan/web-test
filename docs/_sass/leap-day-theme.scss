@@ -254,6 +254,8 @@ header {
     z-index: 1;
   }
   
+  .dropdown:hover .dropdown-content {display: block;}
+  
   .downloads {
     float: right;
     margin:0 45px 0 0;
