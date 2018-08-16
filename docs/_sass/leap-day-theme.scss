@@ -239,7 +239,12 @@ header {
     font-size:14px;
     background-color: #FFE788;
   }
-    
+  
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
   .downloads {
     float: right;
     margin:0 45px 0 0;
