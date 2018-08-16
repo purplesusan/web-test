@@ -215,7 +215,7 @@ header {
     &:hover {
       background: linear-gradient(rgb(255, 231, 136), rgb(255, 231, 136));
       background-color: #ffeca0;
-      .dropdown-content {display: block;}
+      dropdown-content {display: block;}
     }
   }
 
