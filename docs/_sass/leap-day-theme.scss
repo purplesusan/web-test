@@ -240,6 +240,11 @@ header {
     background-color: #FFE788;
   }
   
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
   .dropdown-content {
     display: none;
     position: absolute;
