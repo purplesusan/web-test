@@ -1,1 +1,4 @@
 theme: jekyll-theme-leap-day
+
+sass:
+    sass_dir: _sass
