@@ -10,6 +10,7 @@ body {
 
 header {
   background: #000000;
+  border: 1px solid #12939A;
   
   h1 {
     font: 40px/48px 'Copse', "Mukta", Helvetica, Arial, sans-serif;
@@ -17,10 +18,10 @@ header {
 }
 
 #banner {
-  background: #47B275;
+  background: #FFC043;
 
   .button {
-    border: 1px solid #FFFFFF;
+    border: 1px solid #000000;
     background-color: #368759;
     
     &:hover {
