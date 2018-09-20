@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 
 body {
-  font:14px/22px 'Quattrocento Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font:14px/22px "Mukta";
   background:#000000;
 }
 
@@ -18,14 +18,14 @@ header {
 }
 
 #banner {
-  background: #FFC043;
+  background: #73568F;
 
   .button {
     border: 1px solid #000000;
     background-color: #FFFFFF;
     
     &:hover {
-      background-color: #BCE5C0;
+      background-color: #AE9EFF;
     }
   }
 }
