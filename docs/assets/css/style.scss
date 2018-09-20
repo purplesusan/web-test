@@ -10,11 +10,13 @@ body {
 
 header {
   background: #000000;
+  
+  h1 {
+    font: 40px/48px 'Copse', "Mukta", Helvetica, Arial, sans-serif;
 }
 
 #banner {
   background: #47B275;
-}
 
   .button {
     border: 1px solid #FFFFFF;
@@ -24,3 +26,4 @@ header {
       background-color: #BCE5C0;
     }
   }
+}
