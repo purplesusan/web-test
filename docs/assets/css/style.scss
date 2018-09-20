@@ -5,14 +5,34 @@
 
 body {
   font:14px/22px 'Quattrocento Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;
-  background:#47B275;
+  background:#000000;
 }
 
 header {
-  background: #000000;
-}
-
-#banner {
   background: #FFFFFF;
 }
 
+#banner {
+  background: #47B275;
+}
+
+  .button {
+    border: 1px solid #FFFFFF;
+    background: linear-gradient(rgb(255, 231, 136), rgb(255, 206, 56));
+    border-radius: 2px;
+    box-shadow: inset 0px 1px 0px rgba(255,255,255,.4), 0px 1px 1px rgba(0,0,0,.1);
+    background-color: #368759;
+    margin-left: 5px;
+    padding: 10px 12px;
+    margin-top: 6px;
+    line-height:14px;
+    font-size:14px;
+    color:#333;
+    font-weight: bold;
+    display:inline-block;
+    text-align:center;
+
+    &:hover {
+      background: linear-gradient(rgb(255, 231, 136), rgb(255, 231, 136));
+      background-color: #BCE5C0;
+    }
