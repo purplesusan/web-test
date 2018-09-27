@@ -1,5 +1,31 @@
 ---
 ---
 
-@import 'leap-day-theme';
-@import 'main';
+@import "{{ site.theme }}";
+
+body {
+  background:#EEEEEE;
+}
+
+header {
+  background: #000000;
+  border: 1px solid #000000;
+  
+  h1 {
+    font: 40px/48px 'Quattrocento Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+}
+
+#banner {
+  background: #7356BF;
+  border: 1px solid #7356BF;
+
+  .button {
+    border: 1px solid #000000;
+    background-color: #FFFFFF;
+    
+    &:hover {
+      background-color: #EADFFF;
+    }
+  }
+}
