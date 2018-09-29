@@ -43,8 +43,9 @@ header {
     text-align: center;
     width: 100%;
     background-color: #000000;
-    position: relative;
-    left:0%;
+    position: absolute;
+    left:0;
+    right:0;
     margin-left:0px;
     bottom:0px;
     line-height: 16px;
