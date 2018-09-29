@@ -15,12 +15,7 @@ header {
     font: 40px/48px 'Quattrocento Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;
   }
   
-  cadencelogo {
-    position:absolute;
-    top:0;
-    left:0;
-    width: 100px;
-}
+  
 }
 
 #banner {
@@ -37,6 +32,12 @@ header {
   }
 }
 
+.clogo {
+    float:left;
+    top:0;
+    left:0;
+    width:100px;
+}
 
 
 .footer{
